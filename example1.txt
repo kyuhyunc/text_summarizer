@@ -1,0 +1,1 @@
+Given an arbitrary text document written in English, write a program that will summarize the document, i.e. a list of all word occurrences, labeled with word frequencies, and weighted list of sentences etc. Bonus: If possible, improve the tool to accept N documents and create a multi workers that read N documents concurrently.
